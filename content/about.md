@@ -1,22 +1,13 @@
 +++
 title = "About"
 date = "2019-01-25"
-author = "Radek"
+author = "Philippe Nadon"
 +++
 
-# Hi there
+# Welcome
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+My name is Philippe Nadon. I enjoy many things such as software design and development, but this site focuses on 3D modelling, graphic design, typography, pixel art, and other artistic creations. Full disclosure: *The content on this site is purely for fun, and not for professional / career purposes*.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+You can find my other content and links to them at [https://nadon.io](https://nadon.io).
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The theme includes:
-
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **realy nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
-
-So, there you have it... enjoy!
+Enjoy browsing the content on this site, and feel free to check out my other sites!
