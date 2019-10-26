@@ -1,6 +1,6 @@
 +++
 title = "Graphic Practice"
-date = "2019-01-25"
+date = "2019-10-24"
 author = "Philippe Nadon"
 cover = "/graphic/jungle.jpg"
 +++

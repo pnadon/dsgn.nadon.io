@@ -1,6 +1,6 @@
 +++
 title = "RTIOW"
-date = "2019-01-25"
+date = "2019-10-24"
 author = "Philippe Nadon"
 cover = "/3d/RTIOW.png"
 +++
