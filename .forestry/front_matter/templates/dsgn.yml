@@ -16,3 +16,4 @@ fields:
   label: cover
 pages:
 - content/posts/blender-npr-practice.md
+- content/posts/cryptography-challenge-media.md
